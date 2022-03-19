@@ -1,7 +1,8 @@
 <h1 align="center">Hi there 👋 I'm Mohammad Dehghani</h3>
 <h3 align="center"> Data Scientist & NLP Enthusiast </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamad-dehghani&label=Profile%20views&color=0e75b6&style=flat" alt="alirezabelal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamad-dehghani&label=Profile%20views&color=0e75b6&style=flat" 
+                      /> </p>
 
 - 🌱 Experience with predictive modeling, machine learning, deep learning, and statistical techniques such as regression, decision trees, clustering, neural networks, text mining, etc
 - 📫 How to reach me: Mohammadsw95@gmail.com
