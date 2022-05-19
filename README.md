@@ -5,4 +5,6 @@
 - 📫 How to reach me: Mohammadsw95@gmail.com
 
 <img src="https://github-readme-stats.vercel.app/api?username=mohamad-dehghani&show_icons=true&theme=radical" width="400">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 
