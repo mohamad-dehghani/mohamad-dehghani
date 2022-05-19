@@ -4,5 +4,5 @@
 - 🌱 Experience with predictive modeling, machine learning, deep learning, and statistical techniques such as regression, decision trees, clustering, neural networks, text mining, etc
 - 📫 How to reach me: Mohammadsw95@gmail.com
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohamad-dehghani&show_icons=true&theme=ADD_THEME_HERE" width="400">
+<img src="https://github-readme-stats.vercel.app/api?username=mohamad-dehghani&show_icons=true&theme=radical" width="400">
 
